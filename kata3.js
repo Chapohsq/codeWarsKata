@@ -47,4 +47,4 @@ function doors3(studentsAndDoors) {
     return Math.floor(Math.sqrt(studentsAndDoors));
 }
 
-console.log(doors2(5))
+console.log(doors2(5)) 
